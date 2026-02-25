@@ -1,2 +1,2 @@
-# AuthFort-AI
-AI-powered password strength analyzer and cracking simulator
+# AuthFort-Sec
+Secure password strength analyzer and cracking simulator
