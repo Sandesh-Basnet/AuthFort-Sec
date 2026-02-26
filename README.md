@@ -76,7 +76,7 @@ Each file contains:
 **1. Clone the repository:**
 
 ```bash
-git clone <https://github.com/Sandesh-Basnet/AuthFort-Sec/>
+git clone https://github.com/Sandesh-Basnet/AuthFort-Sec/
 ```
 
 **2. Navigate to the source directory:**
