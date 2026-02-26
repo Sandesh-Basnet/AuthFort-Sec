@@ -1,4 +1,4 @@
-# AuthFort-Sec – Security Module
+# AuthFort-Sec
 
 > A modular cybersecurity password analysis tool that delivers complete password strength assessments through mathematical analysis, attack simulation, human behavior insights, and actionable advice.
 
