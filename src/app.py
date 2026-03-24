@@ -1,5 +1,5 @@
 '''This is the main app to co-ordinate all the modules'''
-'''This is just the integration of many modules you dumbooo'''
+
 from security.entropy import calculate_entropy
 from security.crack_simulator import crack_time
 from security.strength_classifier import classify_strength
